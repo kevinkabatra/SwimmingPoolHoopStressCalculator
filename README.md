@@ -6,7 +6,7 @@ I am a full-stack software developer currently specializing in Enterprise Resour
 
 I should also point out that my ability in Mathematics, outside of iterations... thank you software development, is skeptical at best. Lucky enough none of that is needed in my day to day development. This lack of skill certainly made this task more difficult than I think it otherwise had to be. But I am a talented Googler and a constant student, so I just had to hit the books to make this a reality.
 
-You can see more of my history on [LinkedIn](https://www.linkedin.com/in/kevinkabatra/) or you can just me how awesome you think I am.
+You can see more of my history on [LinkedIn](https://www.linkedin.com/in/kevinkabatra/) or you can just tell me how awesome you think I am.
 
 ## Inspiration
 I was inspired to do this while reading *How To* written by Randall Munroe, which can be purchased from Amazon [here](https://smile.amazon.com/How-Randall-Munroe/dp/1473680328/ref=asc_df_1473680328/?tag=hyprod-20&linkCode=df0&hvadid=366402537587&hvpos=1o2&hvnetw=g&hvrand=7278845996996595821&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9012056&hvtargid=pla-814089623439&psc=1&tag=&ref=&adgrpid=77768497578&hvpone=&hvptwo=&hvadid=366402537587&hvpos=1o2&hvnetw=g&hvrand=7278845996996595821&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9012056&hvtargid=pla-814089623439&sa-no-redirect=1). In this book he has a chapter dedicated to building an absurd swimming pool, and he determines how much water you can store in a swimming pool prior to the wall rupturing based on the type of material that the wall is made out of. The formula seemed simple enough to comprehend, and so I set out to make a C# solution that would calculate this awesomeness for me.
